@@ -6,5 +6,5 @@ It can achieve the accuracy of 99.97% on the test set.
 
 The dataset is simple, so a shallow resnet is enough.
 
-[dataset url]: https://www.kaggle.com/datasets/andrewmvd/medical-mnist
+dataset url: https://www.kaggle.com/datasets/andrewmvd/medical-mnist
     
